@@ -40,10 +40,4 @@ Dưới đây là phiên bản tùy chỉnh của README với định dạng ch
 ## 📢 **Ghi chú**  
 - Dự án tuân theo mô hình **Microservices**, giúp tối ưu hóa hiệu suất và khả năng mở rộng.  
 - Sử dụng Docker để triển khai và quản lý các service.  
-- Codebase được tổ chức chặt chẽ theo best practices.  
 
-📌 **Mọi đóng góp và ý kiến từ thành viên đều được hoan nghênh!** 💡🚀  
-
----
-
-Phiên bản này giúp README rõ ràng, chuyên nghiệp và dễ theo dõi hơn. Bạn muốn chỉnh sửa gì thêm không? 😊
