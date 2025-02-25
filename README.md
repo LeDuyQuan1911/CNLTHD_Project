@@ -40,3 +40,6 @@
 - Dự án tuân theo mô hình **Microservices**, giúp tối ưu hóa hiệu suất và khả năng mở rộng.  
 - Sử dụng Docker để triển khai và quản lý các service.  
 
+## 📢 **Tài liệu tham khảo** 
+- Javascript basic / Reactjs : https://evonhub.dev/
+- Microservice : https://www.udemy.com/course/microservices-with-nodejs-react-typescript-and-kubernetes/?fbclid=IwY2xjawIqmfNleHRuA2FlbQIxMAABHcExm8Clsr3WVs_TVRb1IJLY910FyY8aOmFR2Z8_-Igo0hxzGI9nUtCVDg_aem_ljzVK8IRQDmpjzuXJgR45A&couponCode=ST4MT240225A, https://www.udemy.com/course/microservices-with-node-js-and-react/?fbclid=IwY2xjawIqmfVleHRuA2FlbQIxMAABHcy3Zu_aUb5fkxpS5UxDo4HEfeRq3sLJ6m4CwGuym20dgMWYOhWEmzg66g_aem_oH93O37_b0qGZlpMPsO_rw&couponCode=ST4MT240225A
