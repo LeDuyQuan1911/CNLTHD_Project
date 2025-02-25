@@ -1,4 +1,3 @@
-Dưới đây là phiên bản tùy chỉnh của README với định dạng chuyên nghiệp và dễ đọc hơn:  
 
 ---
 
